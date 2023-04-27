@@ -1,0 +1,96 @@
+ul li{
+    list-style-type: none;
+}
+
+body{
+    background-color: rgb(182, 182, 182);
+}
+
+.btn-primary{
+    background-color: rgba(15, 158, 158, 0.921);
+}
+
+.navbar{
+   
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.card {
+    position:static;
+}
+
+
+.navbar-brand {
+    color: rgba(1,254,195, 0.921); 
+}
+
+.nav-link {
+    color: rgba(1,254,195, 0.921); 
+}
+
+#home {
+    color: rgba(1,254,195, 0.921); 
+}
+
+.nav-link{
+    color: rgba(1,254,195, 0.921); 
+}
+
+.navbar{
+    background-color: rgb(30, 46, 63);
+}
+
+#info {
+     background-color: rgb(30, 46, 63);
+     margin-top: 5em;
+     padding: 5em;
+}
+
+.list-group-item {
+    background-color: rgb(30, 46, 63);
+}
+
+#third{
+    /* staying connected text */
+    color: white;
+    
+}
+
+#about{
+  
+    margin-top: 100px;
+}
+
+#mainpic{
+  
+    margin: 100px;
+}
+
+a{
+    color: rgba(1,254,195, 0.921);
+}
+
+
+
+/* #firstBtn{
+    width: 120px;
+} */
+
+
+/* <form>
+  <div class="form-row">
+    <div class="form-group col-md-6">
+      <label for="inputEmail4">Email</label>
+      <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+         
+      <div class="form-group col-md-6">
+      <label for="inputEmail4">Email</label>
+      <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+
+    </div>
+  </div>
+  <button type="submit" class="btn btn-primary">Sign in</button>
+</form> */
